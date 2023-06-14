@@ -1,0 +1,111 @@
+Source,Target
+Ormoc,Babatngon
+Babatngon,Sta Rita Tap
+Babatngon,Paranas
+Sta Rita Tap,Sta. Rita
+Sta Rita Tap,Paranas
+Paranas,Sta Rita Tap
+Paranas,Calbayog
+Ormoc,Isabel
+Ormoc,Maasin
+Ormoc,Tongonan
+Kananga,Ormoc
+Tabango,Kananga
+Maasin,Ubay
+Ubay,Corella
+Daan Bantayan,Tabango
+Compostela,Daan Bantayan
+Cebu,Compostela
+Cebu,Mandaue
+Lapu-Lapu,Mandaue
+Quiot,Cebu
+Colon,Cebu
+Naga,Colon
+Samboan,Colon
+Magdugo,Colon
+Therma Visayas,Magdugo
+KSPC,Colon
+Toledo,Colon
+Calung-Calung,Colon
+DaangLungsod,Calung-Calung
+Calung-Calung,Colon
+DaangLungsod,Magdugo
+Colon,Quiot
+PGPP1,Amlan
+PGPP2,Amlan
+Mabinay,Amlan
+Kabankalan,Mabinay
+Kabankalan Bess,Kabankalan
+Bacolod,Kabankalan
+Helios,Cadiz
+Cadiz,Helios
+Cadiz,Bacolod
+Helios,Bacolod
+Amlan,Samboan
+Bacolod,Barotac Viejo
+Barotac Viejo,Bacolod
+Concepcion,Barotac Viejo
+Barotac Viejo,Dingle
+Dingle,Barotac Viejo
+Panit-an,Dingle
+Dingle,Sta. Barbara S/S
+Sta. Barbara S/S,Dingle
+Nabas,Panit-an
+San Jose,Sta. Barbara S/S
+Iloilo 1,Sta. Barbara S/S
+Buenavista,Sta. Barbara S/S
+Babatngon,Ormoc
+Sta Rita Tap,Babatngon
+Paranas,Babatngon
+Sta. Rita,Sta Rita Tap
+Paranas,Sta Rita Tap
+Sta Rita Tap,Paranas
+Calbayog,Paranas
+Isabel,Ormoc
+Maasin,Ormoc
+Tongonan,Ormoc
+Ormoc,Kananga
+Kananga,Tabango
+Ubay,Maasin
+Corella,Ubay
+Tabango,Daan Bantayan
+Daan Bantayan,Compostela
+Compostela,Cebu
+Mandaue,Cebu
+Mandaue,Lapu-Lapu
+Cebu,Quiot
+Cebu,Colon
+Colon,Naga
+Colon,Samboan
+Colon,Magdugo
+Magdugo,Therma Visayas
+Colon,KSPC
+Colon,Toledo
+Colon,Calung-Calung
+Calung-Calung,DaangLungsod
+Colon,Calung-Calung
+Magdugo,DaangLungsod
+Quiot,Colon
+Amlan,PGPP1
+Amlan,PGPP2
+Amlan,Mabinay
+Mabinay,Kabankalan
+Kabankalan,Kabankalan Bess
+Kabankalan,Bacolod
+Cadiz,Helios
+Helios,Cadiz
+Bacolod,Cadiz
+Bacolod,Helios
+Samboan,Amlan
+Barotac Viejo,Bacolod
+Bacolod,Barotac Viejo
+Barotac Viejo,Concepcion
+Dingle,Barotac Viejo
+Barotac Viejo,Dingle
+Dingle,Panit-an
+Sta. Barbara S/S,Dingle
+Dingle,Sta. Barbara S/S
+Panit-an,Nabas
+Sta. Barbara S/S,San Jose
+Sta. Barbara S/S,Iloilo 1
+Sta. Barbara S/S,Buenavista
